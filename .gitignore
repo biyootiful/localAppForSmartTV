@@ -1,0 +1,11 @@
+# Build output
+build/
+.gradle/
+
+# Machine-specific
+local.properties
+.DS_Store
+
+# Signing keys stay on the machine that builds
+*.keystore
+*.jks
